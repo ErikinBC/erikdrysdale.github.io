@@ -1,5 +1,5 @@
 ---
-title: 'Yes, supply does matter for housing affordability (Op-Ed)'
+title: 'Supply matters for housing affordability (Op-Ed)'
 output: html_document
 fontsize: 12pt
 published: true
